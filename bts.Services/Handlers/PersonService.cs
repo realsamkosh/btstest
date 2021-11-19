@@ -43,7 +43,38 @@ namespace bts.Services.Handlers
         {
             try
             {
+                //Check the User
+                var checkperson = data
+                    .FirstOrDefault(x => x.Name.ToLower() == model.Name.ToLower());
+                if (checkperson != null)
+                {
+                    return new ResponseModel
+                    {
+                        message = "Data Exist",
+                        status = 400,
+                        success = false,
+                    };
+                }
 
+                if (model.Age <= 0)
+                {
+                    return new ResponseModel
+                    {
+                        message = "Age must be Greater then 0",
+                        status = 400,
+                        success = false,
+                    };
+                }
+
+                if (string.IsNullOrEmpty(model.Name))
+                {
+                    return new ResponseModel
+                    {
+                        message = "Name is required",
+                        status = 400,
+                        success = false,
+                    };
+                }
                 //Get total count of
                 var totalcount = data.Count();
                 var id = totalcount == 0 ? 1 : totalcount + 1;
