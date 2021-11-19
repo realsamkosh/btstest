@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "bts.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/bts.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bts.Models.dll": {}
+        }
+      },
+      "bts.utitlity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/bts.utitlity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bts.utitlity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bts.Models/1.0.0": {
+      "type": "project",
+      "path": "../bts.Models/bts.Models.csproj",
+      "msbuildProject": "../bts.Models/bts.Models.csproj"
+    },
+    "bts.utitlity/1.0.0": {
+      "type": "project",
+      "path": "../bts.utitlity/bts.utitlity.csproj",
+      "msbuildProject": "../bts.utitlity/bts.utitlity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "bts.Models >= 1.0.0",
+      "bts.utitlity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\happy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.Services\\bts.Services.csproj",
+      "projectName": "bts.Services",
+      "projectPath": "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.Services\\bts.Services.csproj",
+      "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.Models\\bts.Models.csproj": {
+              "projectPath": "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.Models\\bts.Models.csproj"
+            },
+            "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.utitlity\\bts.utitlity.csproj": {
+              "projectPath": "C:\\Development\\Projects\\PersonalProjects\\TestProjects\\bts\\bts.utitlity\\bts.utitlity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

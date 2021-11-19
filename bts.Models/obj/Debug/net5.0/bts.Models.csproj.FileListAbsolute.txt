@@ -1,0 +1,12 @@
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\bin\Debug\net5.0\bts.Models.deps.json
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\bin\Debug\net5.0\bts.Models.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\bin\Debug\net5.0\ref\bts.Models.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\bin\Debug\net5.0\bts.Models.pdb
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.csproj.AssemblyReference.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.AssemblyInfoInputs.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.AssemblyInfo.cs
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.csproj.CoreCompileInputs.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\ref\bts.Models.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.Models\obj\Debug\net5.0\bts.Models.pdb

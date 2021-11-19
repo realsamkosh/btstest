@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bts.Models\bts.Models.csproj" />
+    <ProjectReference Include="..\bts.utitlity\bts.utitlity.csproj" />
+  </ItemGroup>
+
+</Project>

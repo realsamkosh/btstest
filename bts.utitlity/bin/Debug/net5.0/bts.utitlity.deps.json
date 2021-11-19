@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bts.utitlity/1.0.0": {
+        "runtime": {
+          "bts.utitlity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bts.utitlity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

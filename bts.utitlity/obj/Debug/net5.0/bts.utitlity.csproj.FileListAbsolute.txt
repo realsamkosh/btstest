@@ -1,0 +1,12 @@
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\bin\Debug\net5.0\bts.utitlity.deps.json
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\bin\Debug\net5.0\bts.utitlity.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\bin\Debug\net5.0\ref\bts.utitlity.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\bin\Debug\net5.0\bts.utitlity.pdb
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.csproj.AssemblyReference.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.AssemblyInfoInputs.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.AssemblyInfo.cs
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.csproj.CoreCompileInputs.cache
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\ref\bts.utitlity.dll
+C:\Development\Projects\PersonalProjects\TestProjects\bts\bts.utitlity\obj\Debug\net5.0\bts.utitlity.pdb
